@@ -2,7 +2,12 @@
   "name": "template-static-web",
   "version": "1.0.0",
   "description": "Basic static template for the web",
-  "scripts": {},
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "keywords": [
     "html",
     "css",
@@ -12,5 +17,8 @@
     "webdev"
   ],
   "author": "daguttt <dagutmu667@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "5.0.10"
+  }
 }
