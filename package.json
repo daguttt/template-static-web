@@ -1,1 +1,16 @@
-{}
+{
+  "name": "template-static-web",
+  "version": "1.0.0",
+  "description": "Basic static template for the web",
+  "scripts": {},
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "template",
+    "web",
+    "webdev"
+  ],
+  "author": "daguttt <dagutmu667@gmail.com>",
+  "license": "MIT"
+}
